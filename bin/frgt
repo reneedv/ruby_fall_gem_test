@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'ruby_fall_gem_test'
+puts "hi"
+puts Book.new.title
+p ARGV
